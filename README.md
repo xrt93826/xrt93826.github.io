@@ -1,2 +1,2 @@
 # xrt93826.github.io
-Home by Bichon
+个人简历

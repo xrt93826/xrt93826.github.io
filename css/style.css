@@ -147,7 +147,7 @@ a:focus {
 	color:#777;
 	font-weight:300;
 	line-height:1.7em;
-  text-indent: 2em;
+  /* text-indent: 2em; */
 }
 
 .skill_info p,.education_details p{
